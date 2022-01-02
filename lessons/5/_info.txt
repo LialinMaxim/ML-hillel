@@ -1,0 +1,11 @@
+https://youtu.be/_QVmVPrLzWc
+
+Описание занятия
+Вектора
+Матрицы
+Библиотека NumPy
+
+
+Полезные ссылки:
+
+https://numpy.org/doc/stable/user/basics.html

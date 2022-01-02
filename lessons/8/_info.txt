@@ -1,0 +1,13 @@
+ONLINE (29.11.2021) Machine Learning (27.12.2021)
+https://youtu.be/36O7Qa5Bqkc
+
+Описание занятия
+Презентация
+https://docs.google.com/presentation/d/1O8qSf5CvGbGkgAv9Pd-TKrzsjSyKCoLC-Em4w8wKbrs
+
+
+
+Дополнительные материалы:
+https://www.featuretools.com/
+https://habr.com/ru/company/leroy_merlin/blog/511792/
+https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
